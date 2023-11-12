@@ -4,7 +4,7 @@ This is a short Classification code that uses Support Vector Machine to classify
 
 You can use main.ipynb to load the data, train the model and save the model.
 
-data folder contains the json data of the training data. 
+data folder contains the json data of the training data.
 
 """
 Author: Milan Adhikari
